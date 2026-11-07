@@ -1,0 +1,26 @@
+[   0.001091] Frontend <Info> qt_common\qt_common.cpp:245:Init: Lichii Version: Lichii Development Build | nx2-build-93
+[   0.001186] Frontend <Info> qt_common\qt_common.cpp:163:LogRuntimes: MSVC Compiler: 1944 Runtime: 14.50.35719.0
+[   0.001196] Frontend <Info> qt_common\qt_common.cpp:172:LogRuntimes: Qt Compile: 6.8.3 Runtime: 6.8.3
+[   0.001203] Frontend <Info> qt_common\qt_common.cpp:261:Init: Host CPU: AMD Ryzen 7 5700G with Radeon Graphics          | AVX2 | FMA
+[   0.001212] Frontend <Info> qt_common\qt_common.cpp:263:Init: Host CPU Cores: 8
+[   0.001217] Frontend <Info> qt_common\qt_common.cpp:266:Init: Host CPU Threads: 16
+[   0.001399] Frontend <Info> qt_common\qt_common.cpp:267:Init: Host OS: Windows 11 Version 26H2 (Build 26300.9818)
+[   0.001426] Frontend <Info> qt_common\qt_common.cpp:269:Init: Host RAM: 31.80 GiB
+[   0.001432] Frontend <Info> qt_common\qt_common.cpp:270:Init: Host Swap: 2.00 GiB
+[   0.001475] Frontend <Info> qt_common\qt_common.cpp:275:Init: Host Timer Resolution: 0.5004 ms
+[   0.004004] Config <Info> frontend_common\config.cpp:78:WriteToIni: Writing Global configuration to: C:\Users\user\AppData\Roaming\eden\config\qt-config.ini
+[   0.008043] Config <Info> frontend_common\config.cpp:78:WriteToIni: Writing Global configuration to: C:\Users\user\AppData\Roaming\eden\config\qt-config.ini
+[   0.172974] Input <Info> input_common\drivers\udp_client.cpp:144:UDuserlient: Udp Initialization started
+[   0.173022] Input <Info> input_common\drivers\udp_client.cpp:338:StartCommunication: Starting communication with UDP input server on 127.0.0.1:26760
+[   0.295621] Input <Info> input_common\drivers\sdl_driver.cpp:123:EnableMotion: Controller motion capabilities: accel=true gyro=true
+[   0.298664] Input <Info> input_common\drivers\joycon.cpp:25:Joycons: Joycon driver Initialization started
+[   0.461503] Frontend <Info> yuzu\main_window.cpp:5023:SetFirmwareVersion: Installed firmware: 22.1.0
+[   0.526762] Frontend <Info> qt_common\game_list\worker.cpp:581:run: Discovery: candidates=1 directories=1 skipped_romfs=0 errors=0 cancelled=false
+[   0.527723] Loader <Info> core\file_sys\program_metadata.cpp:49:Load: NPDM uses the Switch 2 ACID layout
+[   0.531675] Frontend <Info> qt_common\game_list\worker.cpp:581:run: Discovery: candidates=1 directories=1 skipped_romfs=0 errors=0 cancelled=false
+[   0.562749] Loader <Info> core\loader\nup.cpp:123:AppLoader_NUP: NUP container is a standalone update; booting the update program directly
+[   0.604403] Loader <Info> core\loader\nup.cpp:123:AppLoader_NUP: NUP container is a standalone update; booting the update program directly
+[   0.651267] Frontend <Info> qt_common\game_list\worker.cpp:593:run: Game discovery finished: elapsed_ms=188 watched=2 cancelled=false
+[   3.589666] Frontend <Info> yuzu\main_window.cpp:5139:closeEvent: Closing frontend after emulation cleanup
+[   3.624026] Config <Info> frontend_common\config.cpp:78:WriteToIni: Writing Global configuration to: C:\Users\user\AppData\Roaming\eden\config\qt-config.ini
+[   3.627909] Config <Info> frontend_common\config.cpp:78:WriteToIni: Writing Global configuration to: C:\Users\user\AppData\Roaming\eden\config\qt-config.ini
